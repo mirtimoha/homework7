@@ -51,7 +51,7 @@ public class Main {
         }
         System.out.println(array3[0]);
 
-        //fourth task
+        // fourth task
         int[] array4 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
         for (int i = 0; i < array4.length; i++) {
